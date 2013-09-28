@@ -1,7 +1,7 @@
 module Evangelion
   class Rei
     def say
-      print "私がかわりがいるもの"
+      print "私がしんでもかわりがいるもの\n"
     end
   end
 end

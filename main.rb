@@ -12,3 +12,12 @@ end
 
 main = Main.new Evangelion::Gendou.new
 main.say
+
+main = Main.new Evangelion::Asuka.new
+main.say
+
+main = Main.new Evangelion::Rei.new
+main.say
+
+main = Main.new Evangelion::Shinji.new
+main.say

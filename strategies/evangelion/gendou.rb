@@ -1,11 +1,7 @@
 module Evangelion
   class Gendou < Character
     def say
-      print "乗るなら早くしろ、でなければかえれ"
-    end
-
-    def syncronized?
-      false
+      print "乗るなら早くしろ、でなければかえれ\n"
     end
   end
 end
